@@ -1,0 +1,18 @@
+For this project you will be needing the following libraries:-
+
+<LiquidCrystal.h> https://downloads.arduino.cc/libraries/github.com/arduino-libraries/LiquidCrystal-1.0.7.zip
+<Keypad.h> https://downloads.arduino.cc/libraries/github.com/Chris--A/Keypad-3.1.1.zip
+
+How to add lib to the code
+(Step-by-Step)
+
+1. Go to these links and download the zip file
+2. Open Arduino IDE software
+3. Go to sketch and cick on Include Libraries
+4. Then a explorer window will pop up on your screen
+5. Select the Library LiquidCrystal Library
+6. Then again go to the sketch, go to include lib
+7. And this time select the Keypad Library.
+8. Then copy paste the code (and if the include pop's up twice on the Arduino IDE then delete one part)
+
+#Then Click Upload when you are done with the code.
